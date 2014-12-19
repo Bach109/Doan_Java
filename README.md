@@ -1,4 +1,4 @@
 Doan_Java
 =========
 
-đồ án java ....
+Mấy anh em làm lên đây làm đồ án chung !
